@@ -1,6 +1,6 @@
 # AI_13_cp1_team3  
 
-- cp1_scarping - 데이터수집  
+- cp1_scarping - 데이터 ㅇ수집  
 - cp1_database - 데이터베이스  
 - cp1_preprocessing - 데이터전처리  
 - cp1_modeling - 데이터분석 및 모델링  
